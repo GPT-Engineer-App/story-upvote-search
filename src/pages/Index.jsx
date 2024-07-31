@@ -36,7 +36,7 @@ const Index = () => {
       <h1 className="text-3xl font-bold mb-4">Hacker News Top 100 Stories</h1>
       <Input
         type="text"
-        placeholder="Search DSADASDSA..."
+        placeholder="Search DSDSDSDSDSDSDSDSDS..."
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
         className="mb-4"
